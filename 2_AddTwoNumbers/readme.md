@@ -12,7 +12,10 @@ Output: 7 -> 0 -> 8
 Explanation: 342 + 465 = 807.
 
 #思路
-
+用例 是链表转数字 数字转链表
+从输入输出的结构看，该问题被引向10进制的加法器，反而没有其他什么发散。。。
 
 
 #效果
+Runtime: 20 ms, faster than 87.87% of C++ online submissions for Add Two Numbers.
+Memory Usage: 9.8 MB, less than 98.86% of C++ online submissions for Add Two Numbers.
